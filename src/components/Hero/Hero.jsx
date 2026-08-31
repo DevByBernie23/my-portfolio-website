@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="hero-content">
 
           <span className="hero-label">
-            React Developer
+            Frontend Developer
           </span>
 
           <h1>
@@ -17,8 +17,8 @@ const Hero = () => {
           </h1>
 
           <p className="hero-description">
-            I build modern, responsive web applications with React,
-            focusing on clean interfaces, great user experiences,
+            I build modern, responsive web applications with React and
+            JavaScript, focusing on clean interfaces, great user experiences,
             and practical solutions to real-world problems.
           </p>
 
@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="hero-visual">
           <div className="code-card">
             <span>{'<'}</span>
-            <p>React Developer</p>
+            <p>Frontend Developer</p>
             <span>{'/>'}</span>
           </div>
         </div>

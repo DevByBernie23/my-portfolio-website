@@ -20,7 +20,7 @@ const Projects = () => {
         'Order monitoring',
         'Revenue tracking',
       ],
-      image: 'src/assets/Screenshot_23-8-2026_203957_localhost.jpeg',
+      image: 'src/assets/screenshot-1788149554770.png',
       liveLink: 'https://pulse-saas-product.vercel.app/',
       githubLink: 'https://github.com/DevByBernie23/Pulse-saas-project',
     },

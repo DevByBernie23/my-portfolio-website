@@ -15,7 +15,7 @@ const Contact = () => {
           </h2>
 
           <p>
-            Have a project in mind or looking for a React developer?
+            Have a project in mind or looking for a Frontend developer?
             I'd love to hear from you. Feel free to reach out and
             let's discuss how I can help bring your idea to life.
           </p>
@@ -70,7 +70,7 @@ const Contact = () => {
           <div className="contact-message">
             <p>
               I'm currently open to freelance opportunities,
-              collaborations, and junior React developer roles.
+              collaborations, and junior Frontend developer roles.
             </p>
 
             <a

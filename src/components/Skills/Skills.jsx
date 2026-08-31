@@ -4,7 +4,7 @@ import './Skills.css';
 const Skills = () => {
   const skills = [
     {
-      title: 'Frontend',
+      title: 'Frontend Development',
       technologies: [
         'React',
         'JavaScript',
@@ -14,7 +14,7 @@ const Skills = () => {
       ],
     },
     {
-      title: 'React Ecosystem',
+      title: 'React Development',
       technologies: [
         'React Router',
         'React Hooks',
@@ -24,12 +24,13 @@ const Skills = () => {
       ],
     },
     {
-      title: 'Tools',
+      title: 'Tools & Workflow',
       technologies: [
         'Git',
         'GitHub',
         'VS Code',
         'Vite',
+        'AI-Assisted Development',
       ],
     },
   ];
@@ -47,8 +48,8 @@ const Skills = () => {
           </h2>
 
           <p>
-            I use modern web technologies to create responsive,
-            interactive, and user-friendly applications.
+            I use modern frontend technologies and development tools
+            to build responsive, interactive, and user-friendly applications.
           </p>
         </div>
 

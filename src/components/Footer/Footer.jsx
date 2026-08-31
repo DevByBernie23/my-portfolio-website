@@ -12,7 +12,8 @@ const Footer = () => {
           </a>
 
           <p>
-            React Developer building modern web applications.
+            Frontend Developer building modern, responsive web applications
+            with React.
           </p>
         </div>
 

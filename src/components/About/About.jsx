@@ -14,27 +14,34 @@ const About = () => {
           </h2>
         </div>
 
-       <div className="about-content">
-  <p>
-    I'm Bernice Ahuoiza, a React developer passionate about
-    building modern and responsive web applications.
-  </p>
+        <div className="about-content">
+          <p>
+            I'm Bernice Ahuoiza, a Frontend Developer passionate about
+            building modern, responsive, and user-friendly web applications.
+          </p>
 
-  <p>
-    What I enjoy most about React is how naturally it allows me
-    to use JavaScript when building user interfaces. JSX makes it
-    easier for me to connect my JavaScript logic with the structure
-    of my application, while reusable components help keep my code
-    organized and maintainable.
-  </p>
+          <p>
+            I primarily use React and JavaScript to build interactive user
+            interfaces. I enjoy turning designs and ideas into functional
+            experiences while keeping my code organized, reusable, and
+            maintainable.
+          </p>
 
-  <p>
-    I've built projects ranging from SaaS platforms for business
-    owners to book discovery platforms and e-commerce applications.
-    These projects have given me practical experience turning ideas
-    into functional digital experiences.
-  </p>
-</div>
+          <p>
+            I've built projects ranging from SaaS dashboards and business
+            platforms to book discovery and e-commerce applications. These
+            projects have given me practical experience translating ideas
+            into responsive digital products and solving problems throughout
+            the development process.
+          </p>
+
+          <p>
+            I also make effective use of AI tools in my development workflow
+            for research, problem-solving, debugging, and improving
+            productivity while maintaining control over the code I write.
+          </p>
+          
+        </div>
 
       </div>
     </section>
